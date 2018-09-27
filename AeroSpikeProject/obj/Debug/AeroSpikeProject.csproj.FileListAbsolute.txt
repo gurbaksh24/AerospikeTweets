@@ -1,0 +1,13 @@
+C:\Users\ggabbi\source\repos\AeroSpikeProject\AeroSpikeProject\bin\Debug\AeroSpikeProject.exe.config
+C:\Users\ggabbi\source\repos\AeroSpikeProject\AeroSpikeProject\bin\Debug\AeroSpikeProject.exe
+C:\Users\ggabbi\source\repos\AeroSpikeProject\AeroSpikeProject\bin\Debug\AeroSpikeProject.pdb
+C:\Users\ggabbi\source\repos\AeroSpikeProject\AeroSpikeProject\bin\Debug\AerospikeClient.dll
+C:\Users\ggabbi\source\repos\AeroSpikeProject\AeroSpikeProject\bin\Debug\Neo.Lua.dll
+C:\Users\ggabbi\source\repos\AeroSpikeProject\AeroSpikeProject\bin\Debug\AerospikeClient.xml
+C:\Users\ggabbi\source\repos\AeroSpikeProject\AeroSpikeProject\bin\Debug\Neo.Lua.pdb
+C:\Users\ggabbi\source\repos\AeroSpikeProject\AeroSpikeProject\bin\Debug\Neo.Lua.xml
+C:\Users\ggabbi\source\repos\AeroSpikeProject\AeroSpikeProject\obj\Debug\AeroSpikeProject.csprojAssemblyReference.cache
+C:\Users\ggabbi\source\repos\AeroSpikeProject\AeroSpikeProject\obj\Debug\AeroSpikeProject.csproj.CoreCompileInputs.cache
+C:\Users\ggabbi\source\repos\AeroSpikeProject\AeroSpikeProject\obj\Debug\AeroSpikeProject.csproj.CopyComplete
+C:\Users\ggabbi\source\repos\AeroSpikeProject\AeroSpikeProject\obj\Debug\AeroSpikeProject.exe
+C:\Users\ggabbi\source\repos\AeroSpikeProject\AeroSpikeProject\obj\Debug\AeroSpikeProject.pdb
